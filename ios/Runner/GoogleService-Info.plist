@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>592543327679-tue51muhad2jn82pdij8tplfskqbl0ft.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.592543327679-tue51muhad2jn82pdij8tplfskqbl0ft</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>592543327679-4d605rven2mfvgkgkd4neu7ad7f0t9cb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9R9uTj4yWBnFPdi9VtqTumUa-Fud4u0E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>592543327679</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yelpos.seller</string>
+	<key>PROJECT_ID</key>
+	<string>ibeauty-e83da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ibeauty-e83da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:592543327679:ios:3c5e2d0fb7167b416f6d0a</string>
+</dict>
+</plist>
